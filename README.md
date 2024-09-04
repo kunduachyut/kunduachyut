@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on ReactJs,NextJs,mongodb<br>- 🌱 I’m currently learning Next.js, Mantle and DSA<br>- 💬 Ask me about Java, Typescript, JavaScript <br>- 📫 reach me out at kunduachyut19@gmail.com<br>- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGA231M3uA/z-aCTk3PggpxbOJOGyOonw/edit?utm_content=DAGA231M3uA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>- ⚡ I love to play Cricket and Chess
+ - 🔭 I’m currently working on ReactJs,NextJs,mongodb<br>- 🌱 I’m currently learning Next.js, Mantle and DSA<br>- 💬 Ask me about Java, Typescript, JavaScript <br>- 📫 reach me out at kunduachyut19@gmail.com<br>- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAGA231M3uA/z-aCTk3PggpxbOJOGyOonw/edit?utm_content=DAGA231M3uA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>- ⚡ I love to play Cricket and Chess
 
 
 ## 🌐 Socials:
